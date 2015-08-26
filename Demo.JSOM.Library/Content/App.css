@@ -1,0 +1,5 @@
+﻿/* Place custom styles below */
+body{font-size:14pt;}
+.error {color:red;}
+.success {color:green;}
+.waiting {color:blue;}
